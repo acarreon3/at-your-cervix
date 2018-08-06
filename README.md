@@ -37,3 +37,17 @@ Access to cervical cancer prevention programs that exists in other countries to 
 **Unique Value Proposition**
 
 Allow users to input symptoms that could indicate early signs of cervical cancer while providing personalized information on reproductive health and directions to nearby clinics or health care practitioners
+
+
+
+**Algorithm**
+
+The algorithm written in Python detects irregularities based on a user's regular cycle and symptom input.
+
+![alt text](https://raw.githubusercontent.com/acarreon3/at-your-cervix/master/algoss1.JPG)
+![alt text](https://raw.githubusercontent.com/acarreon3/at-your-cervix/master/algoss2.JPG)
+![alt text](https://raw.githubusercontent.com/acarreon3/at-your-cervix/master/algoss3.JPG)
+![alt text](https://raw.githubusercontent.com/acarreon3/at-your-cervix/master/algoss4.JPG)
+![alt text](https://raw.githubusercontent.com/acarreon3/at-your-cervix/master/algoss5.JPG)
+![alt text](https://raw.githubusercontent.com/acarreon3/at-your-cervix/master/algoss6.JPG)
+
